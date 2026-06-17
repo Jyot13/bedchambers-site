@@ -1,2 +1,2 @@
-:HL["/bedchambers-site/_next/static/chunks/0j6pme51z-03l.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"XfPqghfG8hPYuLo446yPS"}
+:HL["/bedchambers-site/_next/static/chunks/3m2d6l6p_yh3s.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"xWi6bTXo91RygH95ZpO-I"}
